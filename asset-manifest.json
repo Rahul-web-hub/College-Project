@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/College-Project/static/css/main.a7b09a91.css",
+    "main.js": "/College-Project/static/js/main.dcf82612.js",
+    "static/js/787.2aa023c9.chunk.js": "/College-Project/static/js/787.2aa023c9.chunk.js",
+    "static/media/backg.png": "/College-Project/static/media/backg.ae8cc60779a70f4e3547.png",
+    "static/media/back02.png": "/College-Project/static/media/back02.f9dd368bcae6abe878f2.png",
+    "static/media/web.png": "/College-Project/static/media/web.d146933ef055a27151e7.png",
+    "static/media/back3.png": "/College-Project/static/media/back3.63b9cc8d104faa649f30.png",
+    "static/media/c++.png": "/College-Project/static/media/c++.3f8430b31b0960aae7e0.png",
+    "static/media/dsa.png": "/College-Project/static/media/dsa.009971679263b904bf27.png",
+    "static/media/helvetica-neu.ttf": "/College-Project/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/College-Project/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/College-Project/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/College-Project/index.html",
+    "main.a7b09a91.css.map": "/College-Project/static/css/main.a7b09a91.css.map",
+    "main.dcf82612.js.map": "/College-Project/static/js/main.dcf82612.js.map",
+    "787.2aa023c9.chunk.js.map": "/College-Project/static/js/787.2aa023c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b09a91.css",
+    "static/js/main.dcf82612.js"
+  ]
+}
